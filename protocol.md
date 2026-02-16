@@ -1,3 +1,5 @@
+# OpenMind Protocol v0.1-alpha
+
 English:
 OpenMind: Hardware Abstraction Layer (HAL) Protocol
 
